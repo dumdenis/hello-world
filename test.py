@@ -10,6 +10,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import curve_fit
 
+
+
 directory="/Users/dumontdenis/Dropbox/Recherche/1-GranularMatter/4-Heap and Inclined flow/Analyse/Inclined Plane/VelocityProfile and theta R dependance/R"
 list_theta_c=[21,19.5,18.5,19,18.5,19,19,21,20.5,21.5]
 #list_theta_c=[23,19,19,19,19,19,20,21,20.5,21.5]
